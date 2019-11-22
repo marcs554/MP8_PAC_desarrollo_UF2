@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PAC_desarrollo</string>
+    <string name="go_activity1">go activity1</string>
+    <string name="go_activity2">go activity2</string>
+    <string name="go_activity3">go activity3</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="imagen_welcome">image welcome</string>
+    <string name="insert_data">Insert data</string>
+    <string name="create_table">Create table</string>
+    <string name="Consult_data">Consult data</string>
+    <string name="Interface">Interface</string>
+    <string name="name">name</string>
+    <string name="lastName">Last name</string>
+    <string name="age">Age</string>
+    <string name="email">email</string>
+    <string name="commit">Commit</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAC_desarrollo</string>
+    <string name="go_activity1">Ir a activity1</string>
+    <string name="go_activity2">Ir a activity2</string>
+    <string name="go_activity3">Ir a activity3</string>
+    <string name="stop_service">parar servicio</string>
+    <string name="start_service">Iniciar servicio</string>
+    <string name="imagen_welcome">Imagen de bienvenida</string>
+    <string name="insert_data">Insertar datos</string>
+    <string name="create_table">Crear tabla</string>
+    <string name="Consult_data">Consultar datos</string>
+    <string name="Interface">Interfaz</string>
+    <string name="name">Nombre</string>
+    <string name="lastName">Apellidos</string>
+    <string name="age">Edad</string>
+    <string name="email">email</string>
+    <string name="commit">proceder</string>
+</resources>
